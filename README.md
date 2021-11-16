@@ -1,0 +1,2 @@
+# efun-token
+EFUN token
